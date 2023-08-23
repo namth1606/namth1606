@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 style="text-align:center; color: rgb(42, 42, 248)">A passionate frontend developer from Viet Nam</h3>
-<img style="align-items: center;width = "100%";" alt = ""  src = "https://images.squarespace-cdn.com/content/v1/50ff1acce4b047a6c7999c73/1575826499852-XBX8LW1UJNQ6NTFL1U9U/Designer+and+Client+4+%28dribbble%29.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namth1606&label=Profile%20views&color=0e75b6&style=flat" alt="namth1606" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img style="align-items: center;width = "100%";" alt = ""  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lsbTh6cnltMXVweW1pYWZhc2Z0ZHlwdDVia3F1M3QyZHJlcDF6byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently working at FPHOUSE
   
