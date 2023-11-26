@@ -2,7 +2,7 @@
 <h3 style="text-align:center; color: rgb(42, 42, 248)">A passionate frontend developer from Viet Nam</h3>
 <img style="align-items: center;width = "100%";" alt = ""  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lsbTh6cnltMXVweW1pYWZhc2Z0ZHlwdDVia3F1M3QyZHJlcDF6byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌱 I’m currently working at FPHOUSE
+- 🌱 I’m currently working at CIMB Bank
   
 - 📫 How to reach me **namthse150921@gmail.com**
 
