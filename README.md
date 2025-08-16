@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
-<h3 style="text-align:center; color: rgb(42, 42, 248)">A passionate frontend developer from Viet Nam</h3>
+<h3 style="text-align:center; color: rgb(42, 42, 248)">A passionate Devops Enginering from Viet Nam</h3>
 <img style="align-items: center;width = "100%";" alt = ""  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lsbTh6cnltMXVweW1pYWZhc2Z0ZHlwdDVia3F1M3QyZHJlcDF6byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌱 I’m currently working at CIMB Bank
+- 🌱 I’m currently working at CIMB Bank Viet Nam
   
 - 📫 How to reach me **namthse150921@gmail.com**
 
@@ -21,9 +21,10 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 - ##### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mysql](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-appveyor?style=for-the-badge&logo=mongodb&logoColor=appveyor&labelColor=appveyor&color=appveyor)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 - ##### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
