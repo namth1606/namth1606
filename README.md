@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nam</h1>
+<h2 align="center">Trần Hoài Nam - Middle Devops</h2>
 <h3 style="text-align:center; color: rgb(42, 42, 248)">A passionate Devops Enginering from Viet Nam</h3>
+
 <img style="align-items: center;width = "100%";" alt = ""  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lsbTh6cnltMXVweW1pYWZhc2Z0ZHlwdDVia3F1M3QyZHJlcDF6byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p>
+A DevOps Engineer with over 3 years of experience. I have worked in both the Banking and Real Estate domains.
+My tech stack includes:
+IaC: Terraform, Helm, Ansible
+CI/CD: Jenkins, GitLab CI, ArgoCD
+Databases: PostgreSQL, MongoDB, MySQL
+Cloud: Google Cloud, AWS
+</p>
 
 - 🌱 I’m currently working at CIMB Bank Viet Nam
   
