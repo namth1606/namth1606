@@ -25,7 +25,7 @@ A DevOps Engineer with over 3 years of experience. I have worked in both the Ban
 - ##### Coding Languge
 ![NestJS](https://img.shields.io/badge/nestjs-red.svg?style=for-the-badge&logo=NestJs&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-red?style=for-the-badge&logo=gnubash&logoSize=4EAA25&color=hsl(0%2C%200%25%2C%2090%25))
-![Lua](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-red.svg?style=for-the-badge&logo=lua&logoColor=white&color=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 - ##### IAC 
