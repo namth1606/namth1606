@@ -1,7 +1,6 @@
 <h2 align="center">Trần Hoài Nam - Middle Devops</h2>
 <h3 style="text-align:center; color: rgb(42, 42, 248)">A passionate Devops Enginering from Viet Nam</h3>
 
-<img style="align-items: center;width = "100%";" alt = ""  src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lsbTh6cnltMXVweW1pYWZhc2Z0ZHlwdDVia3F1M3QyZHJlcDF6byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p>
 A DevOps Engineer with over 3 years of experience. I have worked in both the Banking and Real Estate domains.
 My tech stack includes:
@@ -10,12 +9,6 @@ CI/CD: Jenkins, GitLab CI, ArgoCD
 Databases: PostgreSQL, MongoDB, MySQL
 Cloud: Google Cloud, AWS
 </p>
-
-- 🌱 I’m currently working at CIMB Bank Viet Nam
-  
-- 📫 How to reach me **namthse150921@gmail.com**
-
-- ⚡ Fun fact **Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -64,3 +57,5 @@ Cloud: Google Cloud, AWS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/Macos-0078D6?style=for-the-badge&logo=macos&logoColor=white)
+
+- 📫 How to reach me **namthse150921@gmail.com**
