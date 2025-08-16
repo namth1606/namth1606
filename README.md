@@ -14,7 +14,8 @@ Cloud: Google Cloud, AWS
 <p align="center">
 <a href="www.linkedin.com/in/nam1606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nam-tran-00767522b/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011914069133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011914069133" height="30" width="40" /></a>
-<a href="https://github.com/namth1606" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="https://www.facebook.com/profile.php?id=100011914069133" height="30" width="40" /></a>
+<a href="https://github.com/namth1606" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtNSJxQJyvX2KiB_FNHYG3qY5Z-ULlv04m6O2XOkUFXDZ0W6a6fESGKABTAWj_0rlzHc&usqp=CAU" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtNSJxQJyvX2KiB_FNHYG3qY5Z-ULlv04m6O2XOkUFXDZ0W6a6fESGKABTAWj_0rlzHc&usqp=CAU" height="30" width="40" /></a>
+<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVPRNqc5tiiQoTIj2kseY6t2foptXdjpbTw&s" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVPRNqc5tiiQoTIj2kseY6t2foptXdjpbTw&s" height="30" width="40" /></a>
 </p>
 
 ## My Technical
