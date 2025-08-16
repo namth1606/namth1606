@@ -29,9 +29,18 @@ A DevOps Engineer with over 3 years of experience. I have worked in both the Ban
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 - ##### IAC 
-[![K8s](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
+[![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/docs/)
 [![Terraform](https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
 [![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
+
+- ##### Occhestration  
+[![K8s](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
+[![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+
+- ##### Security
+[![Trivy](https://img.shields.io/badge/trivy-%23326CE5.svg?style=for-the-badge&logo=aqua&logoColor=white)](https://aquasecurity.github.io/trivy/v0.57/)
+[![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)](https://docs.sonarsource.com/sonarqube/latest/)
+[![Vault](https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)](https://developer.hashicorp.com/vault/docs)
 
 - ##### CI/CD 
 [![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
