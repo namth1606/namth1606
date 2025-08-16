@@ -4,6 +4,7 @@
 <p>
 A DevOps Engineer with over 3 years of experience. I have worked in both the Banking and Real Estate domains.
 </p>
+<p>My tech stack includes:</p>
 <ul style="list-style-type:circle">
   <li>IaC: Terraform, Helm, Ansible</li>
   <li>CI/CD: Jenkins, GitLab CI, ArgoCD</li>
