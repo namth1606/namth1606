@@ -16,9 +16,22 @@
 
 ## My Technical
 
-- ##### Backends
+- ##### Coding Languge
+![NestJS](https://img.shields.io/badge/nestjs-red.svg?style=for-the-badge&logo=NestJs&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-red?style=for-the-badge&logo=gnubash&logoSize=4EAA25&color=hsl(0%2C%200%25%2C%2090%25))
+![Lua](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+- ##### IAC 
+[![K8s](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
+[![Terraform](https://img.shields.io/badge/terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
+[![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
+
+- ##### CI/CD 
+[![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![ArgoCD](https://img.shields.io/badge/argo%20cd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
+
 
 - ##### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
