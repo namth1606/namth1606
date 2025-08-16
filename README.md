@@ -61,5 +61,3 @@ A DevOps Engineer with over 3 years of experience. I have worked in both the Ban
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/Macos-0078D6?style=for-the-badge&logo=macos&logoColor=white)
-
-- 📫 How to reach me **namthse150921@gmail.com**
